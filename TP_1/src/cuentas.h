@@ -7,6 +7,7 @@
 
 #ifndef CUENTAS_H_
 #define CUENTAS_H_
+
 float calcularDebito(float);
 float calcularTC(float);
 float calcularBTC(float);

@@ -5,7 +5,6 @@
  *      Author: alex
  */
 
-
 float calcularDebito(float precioAerolinea) {
 	float precioDebito;
 	precioDebito = precioAerolinea - (precioAerolinea * 10 / 100);

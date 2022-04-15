@@ -15,13 +15,6 @@
 #include "cuentas.h"
 
 
-
-int elegirOperacion(void);
-void cargaSubmenu(int, float*, float*, float*);
-void calcularCostos(float, float, float, float[], float[]);
-void informarResultados(float[], float[]);
-void mostrarDatosHC(void);
-
 int main(void) {
 
 	int finalizado = 0;
